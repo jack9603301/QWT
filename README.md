@@ -5,7 +5,6 @@ Qt Widgets for Technical Applications http://qwt.sourceforge.net/
 
 The Qwt library contains GUI Components and utility classes which are primarily useful for programs with a technical background. Beside a framework for 2D plots it provides scales, sliders, dials, compasses, thermometers, wheels and knobs to control or display values, arrays, or ranges of type double.
 
-plot.png
 License
 
 Qwt is distributed under the terms of the Qwt License, Version 1.0.
